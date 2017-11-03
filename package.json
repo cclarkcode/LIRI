@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface - homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cclarkcode/LIRI.git"
+  },
+  "author": "Chris Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cclarkcode/LIRI/issues"
+  },
+  "homepage": "https://github.com/cclarkcode/LIRI#readme",
+  "dependencies": {
+    "moment": "^2.19.1",
+    "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
+}
