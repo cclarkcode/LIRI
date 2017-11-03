@@ -1,0 +1,76 @@
+movie-this,"There's Something About Mary"
+I'm sorry, do-what-it is not a valid command.Here is a list of valid commands:
+
+my-tweets <username>
+my-tweets <username>
+--Will provide the last 20 tweets for the username provided
+
+spotify-this-song <song> (artist(s) optional)
+--Will provide song data, including spotify link to song, for song and artist provided
+
+movie-this <movie name>
+--Will provide movie data for movie name provided
+
+do-what-it-says <filename optional>
+--Will run this program off a specified datafile. Default is random.txt
+
+help
+--Will display these instructions.
+Running movie search on [object Object]
+Movie: The Matrix
+Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 87%
+Produced in: USA
+Synopsis: " A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Running movie search on [object Object]
+Movie: The Matrix
+Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 87%
+Produced in: USA
+Synopsis: " A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Running movie search on The,Matrix
+Movie: The Matrix
+Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 87%
+Produced in: USA
+Synopsis: " A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Running movie search on The Matrix
+Movie: The Matrix
+Released: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 87%
+Produced in: USA
+Synopsis: " A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+Getting tweets for hoopenthusiast
+Dec 06 05:46:51: We definitely all saw this Huertas-TRob lineup closing the game out strong, right?
+Dec 06 05:34:50: Lou Williams bout to start a 40 point game streak off the damn bench
+Nov 13 05:59:13: @LakerGMC So saying you wouldn't let any Muslims into the country is only bigoted towards the ones who might have wanted to come?
+Nov 10 08:43:59: @LakerGMC Trump proposed a ban on all Muslim immigration so that number is off by 1.5999 billion people, but hey, you were close
+Nov 10 02:09:20: @LakerGMC But why stop at 95%? If you're just gonna pull a number out of your ass, why not shoot for the moon? 150%? 200%? Sky's the limit.
+Nov 10 02:08:29: @LakerGMC Between this and the "Clinton was bigoted towards more people" line, you are truly an artist in the ways of bs math.
+Nov 10 01:40:12: @LakerGMC And we're back to square one. Intolerance of other people's intolerance is not bigotry.
+Nov 10 01:30:27: @LakerGMC Stealing a candy bar from a gas station and robbing a bank are both bad. That doesn't make them the same thing.
+Nov 10 01:29:57: @LakerGMC Pointing out the degree of things is not excusing.
+Nov 10 01:08:33: @LakerGMC That's a laughable false equivalence
+Nov 10 01:08:11: @LakerGMC We're now equating something an aide said in a private email once with rhetoric Trump repeatedly used on the campaign trail?
+Nov 10 01:07:08: @LakerGMC OK, I just did.
+Nov 10 00:56:55: @LakerGMC I'm gonna need citation on those last two
+Nov 10 00:56:29: @LakerGMC Except it falls nicely into my previous. Trump was endorsed by the KKK. Are you mad about her choosing the wrong fraction?
+Nov 10 00:52:19: @LakerGMC What was Clinton's intolerance outside of the "deplorables" line?
+Nov 10 00:47:22: @LakerGMC "You're not tolerant of my intolerance, so YOU are the one who is intolerant" ... nah
+Nov 09 19:08:54: @rhylanrowe But correlation most certainly does not equal causation in this case
+Nov 09 19:08:33: @rhylanrowe These things havn't happened without government endorsement in the last few hundred years because government has become constant
+Nov 09 19:05:50: @rhylanrowe Humanity's history is nothing but slavery and war whenever the boundaries of two different groups of humans combine.
+Nov 09 18:45:44: @rhylanrowe The other groups that come to power in the absence of government have proven over history not to be so noble 3/3
